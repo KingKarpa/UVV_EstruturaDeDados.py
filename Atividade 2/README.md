@@ -1,0 +1,2 @@
+## Verificação do Balanceamento de Parênteses
+A atividade propõe ao estudante criar um algoritmo que receba uma string de parênteses e verifique seu balanceamento, isto é, para cada abertura de parêntese, existe um fechamento de parêntese. Isso deve ser feito utilizando a estrutura de dados pilhas.

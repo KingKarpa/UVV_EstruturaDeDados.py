@@ -1,0 +1,2 @@
+## Implementação de Método
+A atividade introduz uma estrutura base de um algoritmo de restaurante, propondo ao estudante que implemente um método para calcular a média do valor gasto por todos os clientes contidos na lista encadeada.
